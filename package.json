@@ -1,6 +1,6 @@
 {
   "name": "f4-oss",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/fatehmm/f4-oss.git",
   "description": "small tools to make development process easier ",
   "main": "main.js",

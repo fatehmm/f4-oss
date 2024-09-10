@@ -2,4 +2,4 @@ function f4() {
     return 'hello from f4';
 }
 
-module.exports = f4;
+export default f4;
