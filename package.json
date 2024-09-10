@@ -1,10 +1,11 @@
 {
   "name": "f4-oss",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "https://github.com/fatehmm/f4-oss.git",
   "description": "small tools to make development process easier ",
+  "type": "module",
   "main": "main.js",
-  "types": "/lib/index.d.ts",
+  "types": "./lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
